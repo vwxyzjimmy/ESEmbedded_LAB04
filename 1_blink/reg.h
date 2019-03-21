@@ -16,6 +16,8 @@
 #define RCC_AHB1ENR_OFFSET 0x30
 #define GPIO_EN_BIT(port) (port)
 
+#define LED_ORANGE 13
+
 //GPIO
 #define GPIO_PORTA 0
 #define GPIO_PORTB 1
